@@ -1,3 +1,9 @@
+# URL Streaming Algorithm 
+ 1.FTA URL Streaming
+    https://iptvunion.tv/fta/owner/stream_id
+ 2.scrambled URL Streaming   
+    https://iptvunion.tv/scrambled/owner/account/stream_id
+    
 # api FTA 
 
 
@@ -18,7 +24,10 @@
 
     https://iptvunion.tv/player_api.php?action=fta&findtag=name_tag
     
-    
+ 7. Get all the streaming information of owner :
+
+    https://iptvunion.tv/player_api.php?action=fta&owner=name_owner
+        
     
   
     
