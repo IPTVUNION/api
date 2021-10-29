@@ -1,10 +1,11 @@
 # URL Streaming Algorithm 
  1.FTA URL Streaming
     https://iptvunion.tv/fta/owner/stream_id
+    
  2.scrambled URL Streaming   
     https://iptvunion.tv/scrambled/owner/account/stream_id
     
-# api FTA 
+# API FTA 
 
 
  1. api GET all streams FTA information:
