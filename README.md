@@ -10,6 +10,10 @@
     
 # API FTA Stream
 
+1.FTA URL Streaming
+
+     https://iptvunion.tv/fta/owner/stream_id
+
 1. api GET all streams FTA information:
 
      https://iptvunion.tv/player_api.php?action=fta
