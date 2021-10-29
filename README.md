@@ -10,10 +10,9 @@
     
 # API FTA Stream
 
-
 1. api GET all streams FTA information:
 
-      https://iptvunion.tv/player_api.php?action=fta
+     https://iptvunion.tv/player_api.php?action=fta
      
 2. Find the name of a stream:
 
@@ -21,19 +20,19 @@
     
 3. api GET ALL Name Tags :
 
-      https://iptvunion.tv/player_api.php?action=fta&name_tags
+     https://iptvunion.tv/player_api.php?action=fta&name_tags
      
 4. api GET ALL Name Tags  And stream information on tags :
 
-      https://iptvunion.tv/player_api.php?action=fta&name_tags
+     https://iptvunion.tv/player_api.php?action=fta&name_tags
      
 6. Find the tag and get the streams of this tag :
 
-      https://iptvunion.tv/player_api.php?action=fta&findtag=name_tag
+     https://iptvunion.tv/player_api.php?action=fta&findtag=name_tag
     
 7. Get all the streaming information of owner :
 
-      https://iptvunion.tv/player_api.php?action=fta&owner=name_owner
+     https://iptvunion.tv/player_api.php?action=fta&owner=name_owner
         
 # API scrambled Stream
     
