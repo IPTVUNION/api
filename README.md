@@ -1,4 +1,4 @@
-# URL Streaming Algorithm 
+# URL play Algorithm 
 
 1.FTA URL Streaming
 
