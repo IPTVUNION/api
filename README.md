@@ -18,7 +18,7 @@
      
 2.Find the name of a stream:
 
-     http://iptvunion.tv/player_api.php?action=fta&findname=stream_name
+     https://iptvunion.tv/player_api.php?action=fta&findname=stream_name
     
 3.GET ALL Name Tags :
 
@@ -34,4 +34,24 @@
      https://iptvunion.tv/player_api.php?action=fta&owner=name_owner
         
 # API scrambled Stream
+
+1. :
+
+     https://iptvunion.tv/player_api.php?account=$account 
+     
+2. :
+
+     https://iptvunion.tv/player_api.php?account=$account&findname=$name_stream
+    
+3. :
+
+     https://iptvunion.tv/player_api.php?account=$account&name_tags
+     
+4. :
+
+     https://iptvunion.tv/player_api.php?account=$account&findtag=$name_tag
+    
+
+
+
     
