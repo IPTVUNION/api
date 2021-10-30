@@ -39,15 +39,15 @@
 
      https://iptvunion.tv/player_api.php?account=$account 
      
-2. :
+2.Find the name of a stream:
 
      https://iptvunion.tv/player_api.php?account=$account&findname=$name_stream
     
-3. :
+3.GET ALL Name Tags:
 
      https://iptvunion.tv/player_api.php?account=$account&name_tags
      
-4. :
+4.Find the tag and get the streams of this tag :
 
      https://iptvunion.tv/player_api.php?account=$account&findtag=$name_tag
     
