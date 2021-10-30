@@ -35,7 +35,7 @@
         
 # API scrambled Stream
 
-1. :
+1.Get all streams of account :
 
      https://iptvunion.tv/player_api.php?account=$account 
      
