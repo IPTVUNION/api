@@ -24,15 +24,12 @@
 
      https://iptvunion.tv/player_api.php?action=fta&name_tags
      
-4.GET ALL Name Tags  And stream information on tags :
-
-     https://iptvunion.tv/player_api.php?action=fta&get_tags
      
-6.Find the tag and get the streams of this tag :
+4.Find the tag and get the streams of this tag :
 
      https://iptvunion.tv/player_api.php?action=fta&findtag=name_tag
     
-7.Get all the streaming information of owner :
+5.Get all the streaming information of owner :
 
      https://iptvunion.tv/player_api.php?action=fta&owner=name_owner
         
